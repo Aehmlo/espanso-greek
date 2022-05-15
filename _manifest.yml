@@ -1,0 +1,5 @@
+name: espanso-greek
+title: Basic Greek letters for Espanso
+description: Expansions for all 24 Greek alphabet letters, exposed as :alpha/:Alpha through :omega/:Omega.
+version: 0.1.0
+author: Alex Hamilton
